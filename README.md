@@ -1,2 +1,1 @@
-# odin-recipes
-Study, mini project, recipes
+# weatherAppProject
